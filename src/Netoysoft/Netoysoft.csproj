@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0</TargetFramework>
+	  <MinClientVersion>3.6</MinClientVersion>
+	  <Nullable>enable</Nullable>
+	  <AssemblyName>Netoysoft</AssemblyName>
+	  <RootNamespace>Netoysoft</RootNamespace>
+	  <ImplicitUsings>true</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
